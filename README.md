@@ -2,19 +2,23 @@
 A Discord bot that allows users to make their own temporary public/private voice channels.
 #### *Bot written with the help of [Discord.py](http://discordpy.rtfd.org/en/latest)*
 
-# Getting Started
+## Getting Started
 
 1) Download Python using the following link:
 	 https://www.python.org/downloads/
 
 2) Clone this GitHub repository.
 
-3) Open terminal and follow these steps:
+3) Open terminal and run these commands (for Windows):
+```bash
+cd path\to\cloned\directory
 
-	i) `cd path\to\cloned\directory`
-  ii) `pip3 install virutalenv`
-  iii) `.\venv\Scripts\activate`
-	iv) `pip3 install -r requirements.txt`
+pip3 install virutalenv
+
+.\venv\Scripts\activate
+
+pip3 install -r requirements.txt
+```
   
 4) Close the terminal and open **config.yml** using a text editor and fill out each section.
 

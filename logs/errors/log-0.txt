@@ -1,0 +1,6 @@
+[2020-06-19 04:25:33,432] WARNING:
+	__init__
+	PyNaCl is not installed, voice will NOT be supported
+	C:\Python38\lib\site-packages\discord\client.py
+
+

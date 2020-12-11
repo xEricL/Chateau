@@ -1,0 +1,18 @@
+#   ////////////////////////////////
+#   ///                          ///
+#   //           Chateau          //
+#   //          By xEricL         //
+#   ///                          ///
+#   ////////////////////////////////
+
+Discord_Configs:
+  discord_token: "DISCORD-BOT-TOKEN"
+  discord_server_id: "DISCORD-GUILD-ID"
+  prefix: "c!"
+  embed_color: "202225"
+
+Auto_VC_Configs:
+  category_id: "000000000000000000"
+  public_vc_id: "000000000000000000"
+  hidden_vc_id: "000000000000000000"
+  

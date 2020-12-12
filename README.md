@@ -15,6 +15,8 @@ cd path\to\cloned\directory
 
 pip3 install virutalenv
 
+python -m venv venv
+
 .\venv\Scripts\activate
 
 pip3 install -r requirements.txt

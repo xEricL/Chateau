@@ -1,7 +1,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-9997f3.svg)](https://www.python.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 <a href="https://hits.seeyoufarm.com">
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FxEricL%2FChateau&count_bg=%232DDAFF&title_bg=%23555555&icon=python.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FxEricL%2FChateau&count_bg=%44BE16&title_bg=%23555555&icon=python.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
 </a>
 
 # Chateau
